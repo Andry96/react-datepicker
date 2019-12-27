@@ -1,7 +1,7 @@
 {
   "name": "react-datepicker",
   "version": "1.0.0",
-  "description": "Custom date picker component in react",
+  "description": "Custom react datepicker component",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
